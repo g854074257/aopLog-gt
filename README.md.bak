@@ -1,6 +1,4 @@
 # AOP Starter
-本项目仅用于体验cursor,全由cursor自动生成，实现了一个简单的aop功能
-
 
 这是一个基于Java 17和Spring Boot 3.0的AOP starter，提供了方法执行前后的日志记录功能。
 
